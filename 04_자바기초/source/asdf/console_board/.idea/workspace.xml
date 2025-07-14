@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abeddbac-5680-48d0-9f63-d3775617896a" name="변경" comment="최상준">
+      <change afterPath="$PROJECT_DIR$/../../day01/day01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day02/day02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day03/day03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/day04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam01/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam01/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam01/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam01/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam01/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam01/Exo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam01/F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam02/AIHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam02/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam02/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam02/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam02/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam02/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam02/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam02/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam03/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam03/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam03/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam03/ProCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam03/SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam04/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam04/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam04/SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam05/EventHandler1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam05/EventHandler2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam06/Buyer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam06/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam06/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam06/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day04/src/exam06/Seller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/day05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/src/exam01/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/src/exam01/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/src/exam01/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/src/exam01/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/src/exam01/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/src/exam02/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/src/exam02/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/src/exam02/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/src/exam02/Outer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/src/exam02/Outer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/src/exam02/Outer3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/src/exam03/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/src/exam03/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/src/exam03/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/src/exam03/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/src/exam03/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/src/exam03/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/src/exam03/MyFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day05/src/exam03/Outer4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam01/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam01/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam01/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam01/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam01/Ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam01/Ex07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam01/Ex08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam01/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam01/UserIdException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam01/UserPwException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam02/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam02/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam02/LoginService2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam02/UserId2Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam02/UserPw2Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam03/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam03/MyResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam04/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam05/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam05/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam05/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam05/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam05/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam05/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day06/src/exam05/Ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam01/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam01/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam01/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam01/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam01/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam02/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam02/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam02/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam02/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam02/Ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam02/Ex07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam03/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam03/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam03/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam03/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam03/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam03/Ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam04/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam04/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam04/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam04/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam04/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam04/Ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam04/Ex07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam04/Ex08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/src/exam04/Transportation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day08/src/exam01/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day08/src/exam01/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day08/src/exam01/MyAnno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day08/src/exam02/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day08/src/exam02/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day08/src/exam02/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day08/src/exam02/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day08/src/exam02/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day08/src/exam02/Ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day08/src/exam02/Ex07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day08/src/exam03/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day08/src/exam03/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day08/src/exam03/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day08/src/exam03/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day08/src/exam03/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day08/src/exam03/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam01/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam01/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam01/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam01/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam01/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam01/Ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam02/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam03/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam03/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam03/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam03/MyLanbda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam04/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam04/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam04/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam04/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam04/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam04/Ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam04/Ex07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam04/Ex08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam05/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam05/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam05/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam05/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam05/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam06/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam06/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam06/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam06/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day09/src/exam06/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day10/src/exam01/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day10/src/exam01/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day10/src/exam01/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day10/src/exam01/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day10/src/exam01/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day10/src/exam01/Ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day10/src/exam01/Ex07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day10/src/exam01/Ex08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day10/src/exam01/Ex09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day10/src/exam01/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day10/src/exam01/Ex11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day10/src/exam02/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day10/src/exam02/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day10/src/exam02/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day10/src/exam02/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day10/src/exam02/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day10/src/exam02/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day10/src/exam03/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../05_jsp_기초/source/day01/src/main/webapp/board.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../05_jsp_기초/source/day01/src/main/webapp/board_ps.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../05_jsp_기초/source/day01/src/main/webapp/hello.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day04/src/exam01/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day04/src/exam01/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day04/src/exam01/Ex01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day04/src/exam01/Ex01.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../.." value="master" />
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;chltkdwns&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/chltkdwns/ai_class_source.git",
+    "accountId": "12b84d50-03c5-48b5-b8d6-12f38ff9be09"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2wkO7hzquZAEAwsUgFbDYyic1hU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.소스 다운로드.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "jun",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/admin/Desktop/chltkdwns/04_자바기초/source/asdf/console_board",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "애플리케이션.Application.executor": "Run"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="db" value="localhost:3306/CONSOLE_BOARD" />
+        <env name="password" value="1234" />
+        <env name="username" value="CONSOLE_BOARD" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="org.koreait.Application" />
+      <module name="console_board.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.koreait.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.Application" />
+        <item itemvalue="애플리케이션.Application" />
+        <item itemvalue="애플리케이션.Application" />
+        <item itemvalue="애플리케이션.Application" />
+        <item itemvalue="애플리케이션.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="abeddbac-5680-48d0-9f63-d3775617896a" name="변경" comment="" />
+      <created>1746581939236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746581939236</updated>
+    </task>
+    <task id="LOCAL-00001" summary="최상준">
+      <option name="closed" value="true" />
+      <created>1746604278946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746604278946</updated>
+    </task>
+    <task id="LOCAL-00002" summary="최상준">
+      <option name="closed" value="true" />
+      <created>1746609304662</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746609304662</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="jun" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="최상준" />
+    <option name="LAST_COMMIT_MESSAGE" value="최상준" />
+  </component>
+</project>
